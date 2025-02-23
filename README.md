@@ -1,4 +1,3 @@
-![](https://github.com/zainnshahid/zainnshahid/blob/main/header.gif)
 ## Hey 👋, This is Muhammah Zain Shahid :)
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=zainnshahid&style=for-the-badge) -->
 <h3><img src="https://komarev.com/ghpvc/?username=zainnshahid&label=Profile%20views&color=6805D3&style=flat" alt="zainnshahid"/></h3>
