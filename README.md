@@ -1,6 +1,5 @@
 ## Hey 👋, This is Muhammah Zain Shahid :)
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=zainnshahid&style=for-the-badge) -->
-<h3><img src="https://komarev.com/ghpvc/?username=zainnshahid&label=Profile%20views&color=6805D3&style=flat" alt="zainnshahid"/></h3>
+![Profile Views](https://komarev.com/ghpvc/?username=zainnshahid&style=for-the-badge)
 
 ## Connect with me 
  <a href="https://www.linkedin.com/in/zain-shahid-933327284/" target="_blank">
