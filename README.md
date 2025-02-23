@@ -1,4 +1,4 @@
-## Hey 👋, This is Muhammah Zain Shahid :)
+## Hey 👋, This is Muhammad Zain Shahid :)
 ![Profile Views](https://komarev.com/ghpvc/?username=zainnshahid&style=for-the-badge)
 
 ## Connect with me 
